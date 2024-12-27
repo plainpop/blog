@@ -1,0 +1,4 @@
+baseURL = 'https://plainpop.github.io/'
+languageCode = 'en-us'
+title = 'Plainpop'
+theme = 'ananke'
